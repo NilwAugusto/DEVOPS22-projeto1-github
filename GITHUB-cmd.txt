@@ -1,0 +1,8 @@
+COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&ab_channel=DevAprender)
+
+1 - Instalar git e criar uma conta no GITHUB
+	- https://github.com/NilwAugusto
+	
+2 - Comandos Git
+	git init	 - inicializa o git na pasta local.
+	
