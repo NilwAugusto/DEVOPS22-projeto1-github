@@ -4,5 +4,20 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	- https://github.com/NilwAugusto
 	
 2 - Comandos Git
-	git init	 - inicializa o git na pasta local.
+	- O QUE SAO?
+		- commits	> versoes do codigo.
+		- brant
+		- push		> atualiza versao (alteraçoes)
+	
+	
+	- COMANDOS Git
+	git init	- inicializa o git na pasta local.
+	git status	- mostra status dos arquivos locais.
+	git add "nome-do-arquivo" - adiciona arquivo no controle de versoes.
+	git add . 	- adiciona todos arquivos que estao Untracked.
+	git commit -m "mensagem" - envia o commit com a mensagem descrita.
+	git config --global user.email "you@example.com" - configuração git+github.
+	git config --global user.name "Your Name"		 - configuração git+github.
+	git push	 - envia a versao do codigo para nuvem (github).
+	git remote add origin https://github.com/NilwAugusto/DEVOPS22-projeto1-github  - configuração git+github.
 	
