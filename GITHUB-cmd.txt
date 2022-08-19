@@ -10,6 +10,9 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 		codigo principal geralmente em produçãom. o processo de passar uma "branch" secundaria para
 		a master chama-se "merge". sao como codigos stable.
 		- push		> atualiza versao (alteraçoes)
+		- merge 	> leva uma branch (secundaria) para a outra (main). Para fazer um merge
+		vc deve entrar na branch que ira receber as atualizaçoes (main) com o git checkout e merger com
+		o git merge staging
 	
 	
 	- COMANDOS Git
@@ -25,8 +28,9 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	git reflog	- historico de commits.
 	git reset --hard id - volta para a versao referente ao ID escolhido.
 	git branch	- mostra as branchs criadas.
-	git branch staging - cria a branch staging
-	git checkout stagind - muda de branch.
+	git branch staging - cria a branch staging. staging é o nome da branch criada.
+	git checkout staging - muda de branch.
+	git merge staging	- merge para a branch atual o conteudo da branch staging.
 	
 	
 	
