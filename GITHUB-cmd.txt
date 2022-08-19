@@ -20,4 +20,6 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	git config --global user.name "Your Name"		 - configuração git+github.
 	git push	 - envia a versao do codigo para nuvem (github).
 	git remote add origin https://github.com/NilwAugusto/DEVOPS22-projeto1-github  - configuração git+github.
+	git reflog	- historico de commits.
+	git reset --hard id - volta para a versao referente ao ID escolhido.
 	
