@@ -13,6 +13,8 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 		- merge 	> leva uma branch (secundaria) para a outra (main). Para fazer um merge
 		vc deve entrar na branch que ira receber as atualizaçoes (main) com o git checkout e merger com
 		o git merge staging
+		- pull request > o processo de aprovação de outros contribuintes do codigo.
+		git ignore 	> lista arquivos e/ou pastas que nao serao incluidas no push.
 	
 	
 	
@@ -34,7 +36,9 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	git merge staging	- merge para a branch atual o conteudo da branch staging.
 	git pull	- traz as atualizaçoes do servidor para maquina local.
 	git checkout -b nome-da-branch master - esse comando cria a branch nome-da-branch, com base na branch master
-									e ja loga nela. Seria o git checkout + o git branch nome-da-branch juntos.
+				e ja loga nela. Seria o git checkout + o git branch nome-da-branch juntos.
+	touch .gitignore - cria o arquivo gitignore onde serao listadas pastar e arquivos que nao serao enviados.
+				
 	
 
 3 - Passos para trabalhar em equipe com git+github (boas praticas).
