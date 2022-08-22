@@ -54,8 +54,7 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	7 - Mergiar (unir) o codigo da branch em trabalho com a branch principal (depois de testar).
 	8 - git push da branch principal.
 	
-	
-	
+	ULTIMA ATUALIZAÇÃO DO ARQUIVO GITHUBCMD - 22/08/22
 	FINAL DO CURSO - GIT+GITHUB
 	
 	
